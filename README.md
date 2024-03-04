@@ -21,6 +21,10 @@ Testing the server and client
 
 ## PROGRAM:
 
+```
+Developed by: LOKESH N
+Register NO:  212222100023
+```
 ## SERVER:
 ```python
 import socket
@@ -65,7 +69,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 
-## OUTPUT:
+### OUTPUT:
+## SERVER:
+![image](https://github.com/lokeshnarayanan/Echoserver/assets/119393019/0f9c64bc-b623-407b-b178-cbd14ed2440d)
+
+## CLIENT:
+![image](https://github.com/lokeshnarayanan/Echoserver/assets/119393019/5f9765e6-c2a8-4870-a926-94e516547675)
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfully.
